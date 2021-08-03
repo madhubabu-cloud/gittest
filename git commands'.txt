@@ -4,6 +4,10 @@ git clone url
 git add filename
 git commit -m "msg"
 git push 
+git pull
+git merge
+git merge --squash
+git reabse
 
 
 
