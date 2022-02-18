@@ -8,7 +8,7 @@ git pull
 git merge
 git merge --squash
 git reabse
-
+git fetch
 
 
 
